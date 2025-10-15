@@ -1,0 +1,5 @@
+site_name: FLAD entrega 2
+theme: 
+  name: material
+  palette:
+    scheme: slate
