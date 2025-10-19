@@ -1,14 +1,13 @@
 site_name: FLAD Entrega 2: Cores
 docs_dir: src_docs
-site_dir: docs           
-  
-  
+site_dir: docs
+
 theme:
   name: material
   palette:
-    - scheme: default
-      primary: red
-      accent: green
+    scheme: default
+    primary: '#FF0000'   # red hex
+    accent: '#00FF00'    # green hex
 
 extra_css:
-  - custom/style.css  
+  - custom/style.css
