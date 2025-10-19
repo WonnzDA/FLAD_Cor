@@ -15,3 +15,10 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+# Trabalho 1: Camiseta
+
+# Trabalho 2: Paleta
+
+# Trabalho 3: Cores e Cultura
+
+# Trabalho 4: Sinestesia
