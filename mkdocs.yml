@@ -1,8 +1,8 @@
-site_name: FLAD entrega 2
-theme: 
+site_name: FLAD: Entrega 2
+
+theme:
   name: material
   palette:
-  palette:
-    scheme: default
-    primary: teal
-    accent: pink
+    - scheme: default
+      primary: red
+      accent: pink
