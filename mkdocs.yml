@@ -17,4 +17,4 @@ theme:
       accent: pink
 
 extra_css:
-  - css/custom.css  
+  - custom/style.css  
