@@ -1,4 +1,6 @@
 /* Background color of the whole page */
+.md-main, 
+.md-sidebar, 
 .md-content {
   background-color: #161859 !important;  /* your desired background hex */
 }
