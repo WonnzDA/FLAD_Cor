@@ -15,7 +15,7 @@
 .md-content h4,
 .md-content h5,
 .md-content h6 {
-  color: #DE32A9 !important;  /* your desired text color hex */
+  color: #A8CAFF !important;  /* your desired text color hex */
 }
 
 /* Background color for the top navigation bar */
@@ -26,5 +26,5 @@
 /* Optional: change top bar text color */
 .md-header nav, 
 .md-header a {
-  color: #DE32A9 !important;  /* white text in the top bar */
+  color: #FFFFFF !important;  /* white text in the top bar */
 }
