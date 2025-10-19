@@ -1,17 +1,1 @@
-site_name: FLAD Core Documentation  
-site_description: "Documentation for FLAD_Cor project"  
-site_author: "Your Name"  
 
-extra_css:
-  - styles/style.css
-  
-site_name: Moodle
-extra_css:
-  - custom/style.css
-  
-theme:
-  name: material
-  palette:
-    - scheme: default
-      primary: red
-      accent: pink
