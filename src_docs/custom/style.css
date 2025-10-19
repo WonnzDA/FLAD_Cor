@@ -2,7 +2,7 @@
 .md-main, 
 .md-sidebar, 
 .md-content {
-  background-color: #161859 !important;  /* your desired background hex */
+  background-color: #161859 !important;  /* background hex */
 }
 
 /* Text color for the main content */
@@ -15,16 +15,16 @@
 .md-content h4,
 .md-content h5,
 .md-content h6 {
-  color: #A8CAFF !important;  /* your desired text color hex */
+  color: #A8CAFF !important;  /*  text color hex */
 }
 
 /* Background color for the top navigation bar */
 .md-header {
-  background-color: #DE32A9 !important;  /* your top bar hex color */
+  background-color: #DE32A9 !important;  /* top bar hex */
 }
 
 /* Optional: change top bar text color */
 .md-header nav, 
 .md-header a {
-  color: #FFFFFF !important;  /* white text in the top bar */
+  color: #161859 !important;  /*  text in the top bar */
 }
