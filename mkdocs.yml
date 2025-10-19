@@ -1,5 +1,7 @@
 repo_name: FLAD entrega 2
 
+site_name: Moodle
+
 theme:
   name: material
   palette:
