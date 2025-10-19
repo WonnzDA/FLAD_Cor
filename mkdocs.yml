@@ -7,4 +7,4 @@ theme:
     primary: teal
     accent: pink
 extra_css:
-  - styles/custom.css
+  - style.css
