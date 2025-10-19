@@ -1,8 +1,24 @@
-/* Background color of the whole page */
+/* Background color of the whole page (content + sidebar + main) */
 .md-main, 
 .md-sidebar, 
 .md-content {
-  background-color: #161859 !important;  /* background hex */
+  background-color: #161859 !important;  /* main background color */
+}
+
+/* Sidebar background override (a bit darker for contrast) */
+.md-sidebar {
+  background-color: #121244 !important;
+}
+
+/* Top navigation bar */
+.md-header {
+  background-color: #DE32A9 !important;  /* your top bar color */
+}
+
+/* Top bar text color */
+.md-header nav, 
+.md-header a {
+  color: #FFFFFF !important;
 }
 
 /* Text color for the main content */
@@ -15,16 +31,20 @@
 .md-content h4,
 .md-content h5,
 .md-content h6 {
-  color: #A8CAFF !important;  /*  text color hex */
+  color: #A8CAFF !important;  /* light blue text */
 }
 
-/* Background color for the top navigation bar */
-.md-header {
-  background-color: #DE32A9 !important;  /* top bar hex */
+/* Centered colored square */
+.centered-square {
+  width: 200px;
+  height: 200px;
+  background-color: #FF6347 !important;  /* tomato red */
+  margin: 40px auto;  /* center horizontally with vertical spacing */
+  border-radius: 8px;  /* rounded corners */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);  /* optional shadow */
 }
 
-/* Optional: change top bar text color */
-.md-header nav, 
-.md-header a {
-  color: #161859 !important;  /*  text in the top bar */
+/* Optional: padding inside main content area */
+.md-main {
+  padding: 20px;
 }
