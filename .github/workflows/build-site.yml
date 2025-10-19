@@ -1,0 +1,35 @@
+name: Build and Commit MkDocs Site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install MkDocs
+        run: |
+          pip install mkdocs mkdocs-material
+
+      - name: Build site folder
+        run: |
+          mkdocs build --clean
+
+      - name: Commit generated site folder
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add site
+          git commit -m "Auto‑build site folder" || echo "Nothing to commit"
+          git push
