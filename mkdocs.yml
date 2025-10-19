@@ -10,4 +10,4 @@ theme:
     accent: '#00FF00'    # green hex
 
 extra_css:
-  - custom/style.css
+  - docs/custom/style.css
