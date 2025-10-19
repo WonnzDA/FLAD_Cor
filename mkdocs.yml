@@ -1,4 +1,6 @@
-site_name: your-repo-name
+site_name: FLAD Core Documentation  
+site_description: "Documentation for FLAD_Cor project"  
+site_author: "Your Name"  
 
 extra_css:
   - styles/style.css
