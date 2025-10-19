@@ -14,7 +14,7 @@ theme:
   palette:
     - scheme: default
       primary: red
-      accent: pink
+      accent: green
 
 extra_css:
   - custom/style.css  
