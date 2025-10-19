@@ -11,4 +11,4 @@ theme:
 
 docs_dir: src_docs
 extra_css:
-  - docs/custom/style.css
+  - custom/style.css
