@@ -1,0 +1,18 @@
+/* Use your custom HEX codes here */
+:root {
+  --md-primary-fg-color: #008080;   /* Top bar, links, buttons */
+  --md-accent-fg-color:  #ff4081;   /* Highlights, hover states */
+  --md-default-bg-color: #121212;   /* Page background */
+  --md-default-fg-color: #f0f0f0;   /* Main text color */
+}
+
+/* Optional: Customize links */
+a {
+  color: #66ccff;
+}
+
+/* Optional: Change code block colors */
+code, pre {
+  background-color: #1e1e1e;
+  color: #00ffcc;
+}
