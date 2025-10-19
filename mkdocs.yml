@@ -1,6 +1,5 @@
 site_name: FLAD Core Documentation  
-site_description: "Documentation for FLAD_Cor project"  
-site_author: "Your Name"  
+site_dir: docs           
 
 extra_css:
   - styles/style.css
