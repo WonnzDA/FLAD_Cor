@@ -5,4 +5,6 @@ theme:
   palette:
     - scheme: default
       primary: red
-      accent: pink
+      accent: pink   
+extra_css:
+  - styles/custom.css
