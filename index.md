@@ -1,3 +1,7 @@
+<head>
+  <title>FLAD entrega 2</title>
+  <!-- other head elements -->
+</head>
 
 <div style="text-align: center;">
   <h1>Trabalho 1: Camiseta</h1>
