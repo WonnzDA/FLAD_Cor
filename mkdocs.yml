@@ -2,7 +2,9 @@ site_name: FLAD entrega 2
 theme: 
   name: material
   palette:
-    scheme: slate
-
+  palette:
+    scheme: default
+    primary: teal
+    accent: pink
 extra_css:
   - styles/custom.css
