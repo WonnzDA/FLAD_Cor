@@ -16,18 +16,28 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
-<p align="center">
-  <h1>Trabalho 1: Camiseta TESTE</h1>
-</p>
 
 <div style="text-align: center;">
-  <h1>Welcome to MkDocs</h1>
+  <h1>Trabalho 1: Camiseta</h1>
 </div>
 
-# Trabalho 1: Camiseta
+<div style="text-align: center;">
+  <h1></h1>
+</div>
 
-# Trabalho 2: Paleta
+<div style="text-align: center;">
+  <h1>Trabalho 2: Paleta</h1>
+</div>
 
-# Trabalho 3: Cores e Cultura
+<div style="text-align: center;">
+  <h1>
+Trabalho 3: Cores e Cultura</h1>
+</div>
 
-# Trabalho 4: Sinestesia
+<div style="text-align: center;">
+  <h1>
+Trabalho 4: Sinestesia</h1>
+</div>
+
+
+
