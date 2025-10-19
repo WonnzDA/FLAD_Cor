@@ -1,5 +1,5 @@
 site_name: "FLAD Entrega 2: Cores"
-docs_dir: src_docs
+
 site_dir: docs
 
 theme:
@@ -9,5 +9,6 @@ theme:
     primary: '#FF0000'   # red hex
     accent: '#00FF00'    # green hex
 
+docs_dir: src_docs
 extra_css:
   - docs/custom/style.css
