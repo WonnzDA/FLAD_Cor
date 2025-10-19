@@ -1,11 +1,7 @@
 docs_dir: src_docs
-site_name: FLAD Core Documentation  
 site_dir: docs           
-
-extra_css:
-  - styles/style.css
   
-site_name: Moodle
+site_name: FLAD Entrega 2: Cores
 extra_css:
   - custom/style.css
   
