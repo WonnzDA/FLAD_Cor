@@ -22,10 +22,6 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 </div>
 
 <div style="text-align: center;">
-  <h1></h1>
-</div>
-
-<div style="text-align: center;">
   <h1>Trabalho 2: Paleta</h1>
 </div>
 
