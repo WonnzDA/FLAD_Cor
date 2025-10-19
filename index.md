@@ -15,9 +15,11 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
-        <p align="center">
+
+<p align="center">
   <h1>Trabalho 1: Camiseta TESTE</h1>
 </p>
+
 # Trabalho 1: Camiseta
 
 # Trabalho 2: Paleta
