@@ -1,5 +1,8 @@
 site_name: Entrega 2
 
+extra_css:
+  - styles/style.css
+  
 site_name: Moodle
 extra_css:
   - custom/style.css
@@ -10,6 +13,3 @@ theme:
     - scheme: default
       primary: red
       accent: pink
-
-extra_css:
-  - styles/style.css
