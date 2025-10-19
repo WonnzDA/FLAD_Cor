@@ -20,6 +20,10 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
   <h1>Trabalho 1: Camiseta TESTE</h1>
 </p>
 
+<div style="text-align: center;">
+  <h1>Welcome to MkDocs</h1>
+</div>
+
 # Trabalho 1: Camiseta
 
 # Trabalho 2: Paleta
