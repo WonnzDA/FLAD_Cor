@@ -1,5 +1,5 @@
 <head>
-  <title> FLAD entrega 2 </title>
+  <title>FLAD entrega 2</title>
   <!-- other head elements -->
 </head>
 
