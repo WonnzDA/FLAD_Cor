@@ -59,8 +59,7 @@ body {
 }
 
 img {
-  border: 10px solid #34408E;  /* Change color and thickness as needed */
+  border: 20px solid #34408E;  /* Change color and thickness as needed */
   border-radius: 8px;         /* Optional: rounded corners */
   padding: 4px;               /* Optional: spacing inside border */
-  background-color: #DE32A9; /* Optional: translucent background */
 }
