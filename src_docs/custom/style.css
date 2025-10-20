@@ -23,7 +23,7 @@ body {
 }
 .md-header nav, 
 .md-header a {
-  color: #FFFFFF !important;
+  color: #121244 !important;
 }
 
 /* === Text colors === */
@@ -39,12 +39,12 @@ body {
   color: #A8CAFF !important;
 }
 
-/* === Optional: Add padding to main content === */
+
 .md-main {
   padding: 20px;
 }
 
-/* === Optional: Centered square (if used) === */
+
 .centered-square {
   width: 200px;
   height: 200px;
