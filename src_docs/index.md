@@ -3,7 +3,7 @@
   <h1>Trabalho 1: Camiseta</h1>
 </div>
 
-Design da imagem da camiseta
+### Design da imagem da camiseta
 ![KOG](imagens/27_ShirtKOG.png)
 ### A imagem faz uso predominante das cores azul e roxo desaturadas que harmonizam com o rosa claro e bem saturado. O desing também leva em consideração a cor da camisa, que tem a mesma cor que a linhas do desenho e as sombras mais intensas. 
 
@@ -11,7 +11,7 @@ Design da imagem da camiseta
   <h1>Trabalho 2: Paleta de floresta</h1>
 </div>
 
-A paleta desenvolvida segue abaixo:
+### A paleta desenvolvida segue abaixo:
 ![Pallet](imagens/ColorPallet_NightForest.png)
 ### Ela foi criada pensando em uma floresta anoite, demosntrado pelos tons de azul. O rosa vem da ideia de flora flourencente.
 
