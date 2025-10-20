@@ -11,12 +11,14 @@
   <h1>
 Trabalho 3: Cores e Cultura</h1>
 </div>
+![Medo](../imagens/30_Fear.png)
 
+![Poder](../imagens/31_Power.png)
 <div style="text-align: center;">
   <h1>
 Trabalho 4: Sinestesia</h1>
 </div>
-
+![Medo](../imagens/32_Seu olhar frio e silencioso.png)
 # Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
