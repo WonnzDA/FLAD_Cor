@@ -1,27 +1,32 @@
-/* Background color of the whole page (content + sidebar + main) */
+/* === Base page background (left/right sides) === */
+body {
+  background-color: #1A1A40 !important;  /* side areas */
+  margin: 0;
+  padding: 0;
+}
+
+/* === Main layout background === */
 .md-main, 
 .md-sidebar, 
 .md-content {
-  background-color: #161859 !important;  /* main background color */
+  background-color: #161859 !important;  /* center content background */
 }
 
-/* Sidebar background override (a bit darker for contrast) */
+/* === Sidebar background override (if needed) === */
 .md-sidebar {
   background-color: #121244 !important;
 }
 
-/* Top navigation bar */
+/* === Top navigation bar === */
 .md-header {
-  background-color: #DE32A9 !important;  /* your top bar color */
+  background-color: #DE32A9 !important;
 }
-
-/* Top bar text color */
 .md-header nav, 
 .md-header a {
   color: #FFFFFF !important;
 }
 
-/* Text color for the main content */
+/* === Text colors === */
 .md-content, 
 .md-content p,
 .md-content li,
@@ -31,20 +36,20 @@
 .md-content h4,
 .md-content h5,
 .md-content h6 {
-  color: #A8CAFF !important;  /* light blue text */
+  color: #A8CAFF !important;
 }
 
-/* Centered colored square */
+/* === Optional: Add padding to main content === */
+.md-main {
+  padding: 20px;
+}
+
+/* === Optional: Centered square (if used) === */
 .centered-square {
   width: 200px;
   height: 200px;
-  background-color: #FF6347 !important;  /* tomato red */
-  margin: 40px auto;  /* center horizontally with vertical spacing */
-  border-radius: 8px;  /* rounded corners */
-  box-shadow: 0 4px 8px rgba(0,0,0,0.3);  /* optional shadow */
-}
-
-/* Optional: padding inside main content area */
-.md-main {
-  padding: 20px;
+  background-color: #FF6347 !important;
+  margin: 40px auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
 }
