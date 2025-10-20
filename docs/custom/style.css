@@ -1,18 +1,18 @@
-/* === Base page background (left/right sides) === */
+/*Base page background */
 body {
   background-color: #161859 !important;  /* side areas */
   margin: 0;
   padding: 0;
 }
 
-/* === Main layout background === */
+/Main layout background*/
 .md-main, 
 .md-sidebar, 
 .md-content {
   background-color: #161859 !important;  /* center content background */
 }
 
-/* === Top navigation bar === */
+/*Top bar*/
 .md-header {
   background-color: #DE32A9 !important;
 }
@@ -21,7 +21,7 @@ body {
   color: #121244 !important;
 }
 
-/* === Text colors === */
+/*Text colors*/
 .md-content, 
 .md-content p,
 .md-content li,
