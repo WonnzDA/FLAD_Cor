@@ -12,11 +12,6 @@ body {
   background-color: #161859 !important;  /* center content background */
 }
 
-/* === Sidebar background override (if needed) === */
-.md-sidebar {
-  background-color: #121244 !important;
-}
-
 /* === Top navigation bar === */
 .md-header {
   background-color: #DE32A9 !important;
